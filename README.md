@@ -64,8 +64,7 @@ Le script effectue les étapes suivantes :
 
 ## Auteurs
 
-Ce projet a été créé par [Votre Nom].
-
+Ce projet a été créé par Valcke Enguerrand
 ## License
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
